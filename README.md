@@ -3,11 +3,11 @@ Camaradas
 
 Encontre os amiguinhos petralhas que são adeptos da potaria. Este app desenvolvido por esquerdopatas, é *open source* com muito orgulho e com muito amor. Muuuito amor <3. Haja amor.
 
-# Plataformas
+## Plataformas
 
 Inicialmente, o app está sendo desenvolvido em android. O Graciano ainda vai criar a parte web, que guardará as informações dos usuários e fornecerá os dados que estarão *na nuvem* para o app, nos momentos em que ele precisar de conexão com a internet. Futuramente, o repositório desta parte estará aqui. Se demorar muito, reclama com o Graciano por [e-mail](mailto:graciano.dev@gmail.com) ou pelo ~feice~.
 
-# Contribua
+## Contribua
 
 - Cada funcionalidade do sistema é uma [issue](https://github.com/Kiloku/camaradas/issues/).
 - Comentários nas issues são bem-vindos, *MUITO BEM-VINDOS*.
@@ -16,12 +16,12 @@ Inicialmente, o app está sendo desenvolvido em android. O Graciano ainda vai cr
 - Estamos usando o [Eclipse](http://www.eclipse.org). Eu não queria, a culpa é do Mateus (@Kiloku).
 - Se for programar alguma coisa, dê um *fork* no projeto, adicione suas contribuições e envie um *pull-request*.
 
-### Dúvidas?
+#### Dúvidas?
 Pode comentar nas issues, ou
 Falar com o Mateus [Lacerda](mailto:mateus.sateles@gmail.com) ou o Matheus [Graciano](mailto:graciano.dev@gmail.com) nos emails dos links ou no ~feice~.
 
-# Licença
-### The MIT License (MIT)
+## Licença
+#### The MIT License (MIT)
 
 Copyright (c) 2014 Mateus Lacerda / Matheus Graciano
 
