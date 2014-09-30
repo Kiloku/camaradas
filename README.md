@@ -5,7 +5,7 @@ Encontre os amiguinhos petralhas que são adeptos da potaria. Este app desenvolv
 
 # Plataformas
 
-Inicialmente, o app está sendo desenvolvido em android. O @graciano ainda vai criar a parte web, que guardará as informações dos usuários e fornecerá os dados que estarão *na nuvem* para o app, nos momentos em que ele precisar de conexão com a internet. Futuramente, o repositório desta parte estará aqui. Se demorar muito, reclama com o @graciano por (e-mail)[mailto:graciano.dev@gmail.com] ou pelo ~feice~.
+Inicialmente, o app está sendo desenvolvido em android. O Graciano ainda vai criar a parte web, que guardará as informações dos usuários e fornecerá os dados que estarão *na nuvem* para o app, nos momentos em que ele precisar de conexão com a internet. Futuramente, o repositório desta parte estará aqui. Se demorar muito, reclama com o Graciano por [e-mail](mailto:graciano.dev@gmail.com) ou pelo ~feice~.
 
 # Contribua
 
@@ -13,15 +13,15 @@ Inicialmente, o app está sendo desenvolvido em android. O @graciano ainda vai c
 - Comentários nas issues são bem-vindos, *MUITO BEM-VINDOS*.
 - As issues sinalizadas como *enhacement* são as funcionalidades. Outros labels surgirão (ou não) no futuro.
 - As issues devem ser priorizadas quanto menor seu número (salvo as issues **muito difíceis** de resolver e bugs).
-- Estamos usando o (Eclipse)[www.eclipse.org]. Eu não queria, a culpa é do @Kiloku.
+- Estamos usando o [Eclipse](http://www.eclipse.org). Eu não queria, a culpa é do Mateus (@Kiloku).
 - Se for programar alguma coisa, dê um *fork* no projeto, adicione suas contribuições e envie um *pull-request*.
 
-#### Dúvidas?
+### Dúvidas?
 Pode comentar nas issues, ou
-Falar com o Mateus (Lacerda)[mailto:] ou o Matheus (Graciano)[mailto:graciano.dev@gmail.com] nos emails dos links ou no ~feice~.
+Falar com o Mateus [Lacerda](mailto:mateus.sateles@gmail.com) ou o Matheus [Graciano](mailto:graciano.dev@gmail.com) nos emails dos links ou no ~feice~.
 
 # Licença
-#### The MIT License (MIT)
+### The MIT License (MIT)
 
 Copyright (c) 2014 Mateus Lacerda / Matheus Graciano
 
@@ -31,6 +31,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-#### Nem li e nem leray
+### Nem li e nem leray
 
 Resumindo, tu pode fazer o que quiser com o software, desde que coloque a parte em CAPS na licensa. E que a gente não seja responsabilizado.
